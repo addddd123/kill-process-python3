@@ -1,5 +1,4 @@
 
 #os related tasks in python3
 Process killer
-Junk organizer
-
+file organizer it organizes files to their distinct folders eg, .txt to TEXT folder ,.html to HTML folder
